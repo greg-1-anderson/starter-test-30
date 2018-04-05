@@ -1,5 +1,7 @@
 # Starter
 
+No-op change.
+
 A starter PHP project with many services and features pre-configured. Simply use `composer create-project`, and a new GitHub repository will be created and configured to be tested on Travis CI.
 
 ## Usage
